@@ -1,0 +1,1 @@
+Drop a class in here for AnimalHandler to automatically handle it. The classname should be the name of the animal & it should have a `public says()` method that returns the animal sound.

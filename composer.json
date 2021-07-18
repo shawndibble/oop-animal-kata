@@ -1,0 +1,22 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "name": "shawndibble/oop-animal-kata",
+    "authors": [
+        {
+            "name": "Shawn Dibble"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "*",
+        "plejus/pluralize": "^1.0",
+        "symfony/finder": "^5.3",
+        "icanboogie/inflector": "^2.0",
+        "ext-json": "*",
+        "symfony/cache": "^5.3"
+    },
+    "license": "MIT"
+}
